@@ -1,0 +1,13 @@
+.homepage-block {
+  vertical-align: middle;
+  text-align: center;
+  height: 100%; }
+
+.welcomeMessage {
+  display: inline-block;
+  margin-top: 32%;
+  color: #DF5240;
+  font-family: "Nunito";
+  font-size: 72px; }
+
+/*# sourceMappingURL=app.css.map */

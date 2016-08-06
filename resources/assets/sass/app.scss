@@ -1,2 +1,18 @@
 // @import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
 
+$fontColor: #DF5240;
+$font: 'Nunito';
+
+.homepage-block{
+  vertical-align: middle;
+  text-align: center;
+  height: 100%;
+}
+
+.welcomeMessage{
+  display: inline-block;
+  margin-top: 32%;
+  color: $fontColor;
+  font-family: $font;
+  font-size: 72px;
+}
